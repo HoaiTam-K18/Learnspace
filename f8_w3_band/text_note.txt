@@ -1,0 +1,38 @@
+Bài thực hành 1:
+link: https://www.w3schools.com/w3css/tryw3css_templates_band.htm
+
+    1. Phân tích. --> OK
+        1. Header.
+        2. Slider.
+        3. Content.
+            1. About.
+            2. Tour.
+            3. Contact.
+        4. Banner.
+        5. Footer.
+
+    2. Dựng base.
+    3. Xây dựng từng phần theo phân tích.
+    4. Hoàn thiện.
+
+ 
+  * Những thành phần thường có trong giao diện webside:
+    1. Header.
+    2. Nagivation (Phần điều hướng của trang).
+    3. Breadcrumb (Chỉ vị trí hiện tại của trang).
+    4. Sidebar (Thanh thường đạt bên phải hoặc trái của web).
+    5. Slider (Phần động).
+    6. Banner (Ảnh).
+    7. Content (Nội dung).
+    8. Footer.
+
+ * Cách làm:
+    1. Từ ngoài vào trong.
+    2. Từ trên xuống dưới.
+    3. Từ tổng quan đến chi tiết.
+ 
+ * Đặt câu những câu hỏi quan trọng:
+    1. Vị trí.
+    2. Kích thước.
+    3. Màu sắc.
+    4. Kiểu dáng (font chữ, tròn, vuông...).
